@@ -1,0 +1,6 @@
+*.sw[pon]
+data/
+node_modules/
+bower_components/
+*.log
+api/robomongo-0.8.5-x86_64.deb
