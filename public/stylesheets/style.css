@@ -1,8 +1,16 @@
 body {
-  padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+nav.top-nav {
+    height: 70px;
+    margin-bottom: 20px;
+}    
+
+.search-bar {
+    margin-top: -15px;
 }
