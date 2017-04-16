@@ -14,7 +14,7 @@ You just need to install dependencies:
 npm install
 ```
 
-And start the program (locally)
+And start the program (locally). *Ensure mongodb is up and running
 
 ```bash
 npm start
