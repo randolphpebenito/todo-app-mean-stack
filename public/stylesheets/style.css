@@ -1,9 +1,17 @@
 body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #eee;
 }
 
 a {
   color: #00B7FF;
+}
+
+.creator {
+	font-size: 60%;
+	color: #d2cccc;
+	padding-left: 20px;
+
 }
 
 nav.top-nav {
